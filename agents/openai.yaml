@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职咨询备课与演练助手"
+  short_description: "帮助求职咨询顾问完成会前备课、客户演练、评分复盘与会后跟进"
+  default_prompt: "使用 $career-consultation-coach，先检查会前报告与参与人资料，启动Preparation。"
